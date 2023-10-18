@@ -7,7 +7,7 @@ Web page to get keycodes
 
 
 ## Sobre
-Essa página utiliza de uma função JS para capturar o key code da tecla pressionada.
+Essa página utiliza de uma função JS para capturar o key code da tecla pressionada. O keycode é um código usado para rastrear teclar de teclas específicas, com cada tecla tendo o seu Keycode.
 É extremamente útil quando se está criando um site interativo com atalhos ou comandos acionados por teclas específicas.
 O repostitório foi criado justamente para auxiliar nessa questão, já uitlizar mapas de keycode nem sempre é tão rápido e eficaz como se deseja.
 Para esse tipo de uso é importante garantir que o desenvolvedor não utilize o keycode incorreto por teclar um caracter diferente daquele almejado, por isso, além do keycode, a página também exibe qual a tecla correspondente.
